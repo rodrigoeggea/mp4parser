@@ -26,7 +26,20 @@ Maven:
     <version>1.9.27</version>
   </dependency>
 ```
-
+```xml
+  <dependency>
+    <groupId>org.mp4parser</groupId>
+    <artifactId>muxer</artifactId>
+    <version>1.9.27</version>
+  </dependency>
+```
+```xml
+  <dependency>
+    <groupId>org.mp4parser</groupId>
+    <artifactId>streaming</artifactId>
+    <version>1.9.27</version>
+  </dependency>
+```
 For projects that do not use a dependency management tool each release's artifacts (jar, javadoc-jar, source-jar) are attached to the release page. Please be aware that the project requires the aspectj-rt.jar library. 
 
 
